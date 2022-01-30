@@ -1,2 +1,7 @@
+#include <stdio.h>
 
-Okay... but i dont understand git... 
+int main(int argc, char* argv[]) {
+
+	printf("Hello, World!\n");
+	return 0;
+} 
